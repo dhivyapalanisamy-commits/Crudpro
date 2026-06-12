@@ -1,0 +1,6 @@
+python
+django -- pip install dango
+html
+css
+js
+database -sqllite3
